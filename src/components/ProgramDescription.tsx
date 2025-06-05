@@ -50,9 +50,9 @@ const ProgramDescription = () => {
             <div className="space-y-6">
               <div className="text-center bg-gradient-to-br from-eco-primary to-eco-light p-8 rounded-3xl text-white">
                 <div className="text-4xl font-montserrat font-bold mb-2">
-                  2024
+                  Май 2026
                 </div>
-                <div className="text-lg opacity-90">Год запуска программы</div>
+                <div className="text-lg opacity-90">Старт программы</div>
               </div>
 
               <div className="grid grid-cols-2 gap-4">
