@@ -33,12 +33,12 @@ const CallToAction = () => {
               </p>
             </div>
             <div className="bg-white/10 backdrop-blur-sm p-6 rounded-2xl">
-              <div className="text-3xl mb-3">📜</div>
+              <div className="text-3xl mb-3">🌍</div>
               <h3 className="font-montserrat font-semibold text-lg mb-2">
-                Сертификат
+                Опыт
               </h3>
               <p className="text-sm opacity-80">
-                Получи официальный сертификат экогида
+                Реальный опыт работы в сфере экотуризма
               </p>
             </div>
             <div className="bg-white/10 backdrop-blur-sm p-6 rounded-2xl">

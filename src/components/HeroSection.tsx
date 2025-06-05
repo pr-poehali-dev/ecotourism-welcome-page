@@ -21,7 +21,7 @@ const HeroSection = () => {
         </h1>
 
         <h2 className="font-montserrat font-semibold text-2xl md:text-3xl text-eco-primary mb-8">
-          Придумай шаги! 🌲
+          🌲🌲🌲
         </h2>
 
         {/* Основное описание */}
